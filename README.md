@@ -14,7 +14,7 @@ React-keystone-boilerplate is a scaffolding tool which makes it easy to build is
 
 ## Available Commands
 
-1. `npm run start` - starts the development server with hot reloading enabled
+1. `npm run start` - starts the development server
 
 4. `npm run watch` - start the test runner with watch mode
 
@@ -43,7 +43,7 @@ To make your version, follow these steps
 
 1. Clone this project
     ```
-    git clone https://github.com/Davidcreador/react-keystone-boilerplate.git
+    git clone https://github.com/Davidcreador/react-keystone-skeleton.git
     ```
 
 2. Make your changes or anything else.
@@ -53,5 +53,5 @@ To make your version, follow these steps
 4. Done!!
 
 ## License
-React-Keystone-Boilerplate is released under the [MIT License](http://www.opensource.org/licenses/MIT).
+React-Keystone-Skeleton is released under the [MIT License](http://www.opensource.org/licenses/MIT).
 # react-keystone-skeleton
