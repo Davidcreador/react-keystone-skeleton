@@ -1,0 +1,10 @@
+node_modules
+.tmp
+.idea
+dist
+.publish
+npm-debug.log
+.DS_Store
+.env
+aws-keys.json
+.awspublish-*

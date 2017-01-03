@@ -1,0 +1,25 @@
+.header {
+  color: #fff;
+  background: #0066bb url(../../images/reactjs.png) no-repeat right 10px;
+  background-size: contain;
+}
+
+  .header__title {
+    display: inline-block;
+    padding: 0 20px;
+  }
+
+  .header__link {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 3px;
+
+    &.active,
+    &:hover {
+      background-color: #0085F3;
+    }
+
+  }
